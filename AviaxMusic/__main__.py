@@ -40,7 +40,7 @@ async def init():
     await userbot.start()
     await Aviax.start()
     try:
-        await Aviax.stream_call("https://te.legra.ph/file/29f784eb49d230ab62e9e.mp4")
+        await Aviax.stream_call("https://telegra.ph/file/c6a560ee49384b469448d.mp4")
     except NoActiveGroupCall:
         LOGGER("AviaxMusic").error(
             "Please turn on the videochat of your log group\channel.\n\nStopping Bot..."
