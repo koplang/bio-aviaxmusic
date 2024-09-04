@@ -15,5 +15,5 @@
     - "git clone https://github.com/budeg/bio-aviaxmusic && cd bio-aviaxmusic"
     - "pip3 install -U -r requirements.txt"
     - "sudo apt install tmux -y && tmux"
-    - "bash start"
+    - ""
     instance_type: "GENERAL_MEDIUM"
